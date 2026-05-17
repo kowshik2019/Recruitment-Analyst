@@ -1,4 +1,4 @@
-## PROJECT 2 — Recruitment Analyst Multi-Agent System (Analyzes resumes, matches skills with JD & Generates Interview Questions
+## PROJECT 2 — Recruitment Analyst Multi-Agent System (Analyzes resumes, matches skills with JD & Generates Interview Questions)
 
 ## Short Description:
 AI-powered recruitment pipeline where 3 collaborative agents analyse resumes, match skills according to JDs, and generate tailored interview questions through shared memory architecture.

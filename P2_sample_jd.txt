@@ -1,0 +1,41 @@
+Job Title: Senior Data Engineer
+Company: FinTech Innovations Inc.
+Location: Remote (US)
+Employment Type: Full-Time
+
+ABOUT THE ROLE
+We are looking for a Senior Data Engineer to join our growing Data Platform team.
+You will design, build, and maintain our cloud-native data infrastructure,
+support ML engineering teams, and lead data quality initiatives.
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 5+ years of experience in data engineering
+- Strong proficiency in Python and SQL
+- Apache Spark / PySpark (must-have)
+- Apache Kafka or similar streaming technology
+- Snowflake or equivalent cloud data warehouse
+- Apache Airflow for pipeline orchestration
+- dbt for data transformation
+- AWS or GCP cloud experience
+- Experience with ML pipeline support (MLflow, feature stores, model serving)
+- Docker and containerisation
+- Strong understanding of data modelling (Star Schema, Data Vault)
+- Data quality frameworks (Great Expectations or similar)
+
+NICE TO HAVE
+- Terraform or infrastructure-as-code experience
+- LangChain or LLM pipeline experience
+- Databricks certification
+- Real-time streaming at scale (>1M events/day)
+- Financial services or fintech domain experience
+
+RESPONSIBILITIES
+- Design and build scalable, reliable data pipelines
+- Maintain and optimise our Snowflake data warehouse
+- Support ML engineers with data infrastructure and feature engineering
+- Implement data quality and observability frameworks
+- Collaborate with data scientists, analysts, and product teams
+- Lead data architecture reviews and documentation
+
+COMPENSATION
+$140,000 – $175,000 annually + equity + benefits

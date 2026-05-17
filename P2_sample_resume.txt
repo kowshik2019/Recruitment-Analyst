@@ -1,0 +1,46 @@
+John Smith
+john.smith@email.com | (555) 123-4567 | LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/jsmith
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer with 6 years of expertise in building scalable data pipelines,
+cloud data warehousing, and real-time streaming systems. Proficient in Python, PySpark,
+Snowflake, and AWS. Strong background in ETL/ELT design and ML pipeline support.
+
+TECHNICAL SKILLS
+Languages     : Python, SQL, Scala, Bash
+Big Data      : Apache Spark, PySpark, Kafka, Hadoop
+Cloud         : AWS (S3, Glue, EMR, Lambda, Redshift), Azure (ADF, ADLS)
+Data Warehouse: Snowflake, Redshift, BigQuery
+Orchestration : Apache Airflow, dbt, Prefect
+Databases     : PostgreSQL, MySQL, MongoDB
+ML Tools      : Scikit-learn, MLflow, SageMaker basics
+DevOps        : Docker, Git, Jenkins, Terraform (basics)
+Soft Skills   : Problem-solving, Cross-team collaboration, Agile methodology
+
+WORK EXPERIENCE
+
+Senior Data Engineer | TechCorp Inc. | Jan 2022 – Present
+- Designed and maintained Snowflake data warehouse serving 15 BI dashboards.
+- Built real-time Kafka → Spark Structured Streaming pipelines processing 500K events/day.
+- Reduced ETL pipeline runtime by 40% via PySpark optimisation and partitioning strategies.
+- Led migration from on-premise Hadoop to AWS EMR, saving $200K annually.
+- Collaborated with ML team to productionise 3 ML models using MLflow and Airflow.
+
+Data Engineer | DataFlow Solutions | Jun 2019 – Dec 2021
+- Developed 20+ Python-based ETL pipelines ingesting data from REST APIs and flat files.
+- Implemented dbt models for data transformation across 5 domains in Snowflake.
+- Automated data quality checks using Great Expectations, reducing data issues by 60%.
+- Supported Power BI and Tableau dashboard teams with curated data marts.
+
+Junior Data Analyst | Analytics Hub | Jan 2018 – May 2019
+- Performed SQL-based analysis on customer behaviour data for marketing campaigns.
+- Created weekly executive dashboards in Excel and Tableau.
+
+EDUCATION
+M.S. Computer Science — State University, 2018
+B.S. Information Technology — City College, 2016
+
+CERTIFICATIONS
+- AWS Certified Data Analytics – Specialty (2023)
+- Snowflake SnowPro Core Certification (2022)
+- dbt Fundamentals Certificate (2021)
